@@ -4,7 +4,7 @@ An Amazon-like storefront using MySQL. The app takes in orders from customers an
 
 ## Instructional Video
 
-An instructional video can be found at:
+An instructional video can be found at:  https://drive.google.com/file/d/1WOUjopIetEA28jB85WCRpVsyqGNYcRPL/view
 
 ## Instructions
 
